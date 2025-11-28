@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', sans-serif; 
+    color: #1e1863;
+    background-image: url(aris.jpg);
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    color: #86084d;
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+
+}
+
+p {
+    margin-bottom: 1em;
+    color: #ad0c0c;
+    font-size: 1rem;
+}
+
+article {
+    background-color: rgb(230, 200, 200);
+    border: 10px solid #ddd;
+    padding: 16px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+ul {
+    background-color: rgb(230, 200, 200);
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
